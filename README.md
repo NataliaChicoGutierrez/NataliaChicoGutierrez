@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Natalia Chico</h1>
-<h3 align="center">Soy estudiante de Ingeniería en Sistemas</h3>
 
-- 🌱 Actualmente estoy estudiando en **la Universidad Latina**
+
+- 🌱 Graduada de Ingeniería en Sistemas 
 
 - 📫 Me pueden contactar por medio de **natalia.chico.gutierrez@gmail.com**
 
